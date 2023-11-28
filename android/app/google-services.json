@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "66531006495",
+    "firebase_url": "https://iyarkai-e07cc-default-rtdb.firebaseio.com",
+    "project_id": "iyarkai-e07cc",
+    "storage_bucket": "iyarkai-e07cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66531006495:android:2deb2a5c269df7168d9d2a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmXOax4_5690PBFsSIG9ztM3wz1nEQ0TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66531006495:android:625fba6f9940459d8d9d2a",
+        "android_client_info": {
+          "package_name": "com.example.reddit_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmXOax4_5690PBFsSIG9ztM3wz1nEQ0TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
